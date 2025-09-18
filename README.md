@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">an AI aspirant open to change</h3>
+<h3 align="center">I am an AI aspirant open to change</h3>
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 📫 How to reach me **edwinthomaspurayidathil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/edwin-purayidathil-17626a377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/edwin-purayidathil-17626a377" height="30" width="40" /></a>
 <a href="https://instagram.com/_edwin_thomas__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_edwin_thomas__" height="30" width="40" /></a>
 </p>
 
